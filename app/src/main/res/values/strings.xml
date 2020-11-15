@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProviderTestApp</string>
+    <string name="add">添加</string>
+    <string name="del">删除</string>
+    <string name="alt">修改</string>
+    <string name="search">查询</string>
+    <string name="all">全部</string>
+    <string name="del_all">全部删除</string>
+</resources>
